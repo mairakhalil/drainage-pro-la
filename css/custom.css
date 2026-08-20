@@ -11741,3 +11741,58 @@ header.main-header .header-sticky.active{
 		padding: 15px 0;
 	}	
 }
+
+/* PRIVACY POLICY STYLE  */
+/* Legal Pages */
+.legal-page {
+    padding: 100px 0;
+}
+
+.legal-intro {
+    margin-bottom: 40px;
+}
+
+.legal-card {
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.legal-contact-box {
+    border: 1px solid #e5e5e5;
+    border-radius: 16px;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.legal-contact-btn {
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 991px) {
+    .legal-page {
+        padding: 80px 0;
+    }
+
+    .legal-card,
+    .legal-contact-box {
+        padding: 25px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .legal-page {
+        padding: 60px 0;
+    }
+
+    .legal-intro {
+        margin-bottom: 30px;
+    }
+
+    .legal-card,
+    .legal-contact-box {
+        padding: 20px;
+        border-radius: 12px;
+    }
+}
