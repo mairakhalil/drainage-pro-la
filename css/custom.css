@@ -3079,7 +3079,7 @@ header.main-header .header-sticky.active{
 
 .page-header{
     position: relative;
-    background-image: url('../images/page-header-bg.jpg');
+    background-image: url('../images/background/page-header.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -3516,7 +3516,7 @@ header.main-header .header-sticky.active{
 
 .sidebar-cta-box{
 	position: relative;
-	background: url('../images/sidebar-cta-bg-image.jpg') no-repeat;
+	background: url('../images/background/faq-icta-bg-mg.webp') no-repeat;
 	background-position: center center;
 	background-size: cover;
 	min-height: 350px;
