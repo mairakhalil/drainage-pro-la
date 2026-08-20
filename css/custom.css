@@ -873,7 +873,7 @@ header.main-header .header-sticky.active{
 
 .satisfy-client-image.add-more img{
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 }
 
 .satisfy-client-image.add-more h3{
@@ -1109,7 +1109,7 @@ header.main-header .header-sticky.active{
 .about-us-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -1257,7 +1257,7 @@ header.main-header .header-sticky.active{
 .service-item .icon-box img{
 	position: relative;
     width: 100%;
-    max-width: 24px;
+    max-width: 30px;
 	z-index: 1;
 }
 
@@ -1645,7 +1645,7 @@ header.main-header .header-sticky.active{
 
 .our-story{
 	position: relative;
-	background-image: url('../images/our-story-bg-image.jpg');
+	background-image: url('../images/videos/video-img.webp');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -1833,7 +1833,7 @@ header.main-header .header-sticky.active{
 	position: absolute;
 	top: -20px;
 	left: 0;
-	background-image: url('../images/section-bg-shape-1.png');
+	background-image: url('../images/shapes/service-drainage-bg-transparent-2.webp');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -1894,7 +1894,7 @@ header.main-header .header-sticky.active{
 .feature-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -1982,7 +1982,7 @@ header.main-header .header-sticky.active{
 .feature-counter-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	transition: all 0.4s ease-in-out;
 	z-index: 1;
 }
@@ -2180,7 +2180,7 @@ header.main-header .header-sticky.active{
 .donate-now-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	transition: all 0.4s ease-in-out;
 	z-index: 1;
 }
@@ -3151,7 +3151,7 @@ header.main-header .header-sticky.active{
 .our-approach::before{
 	top: -20px;
 	right: 0;
-	background-image: url('../images/section-bg-shape-1.png');
+	background-image: url('../images/shapes/service-drainage-bg-transparent-2.webp');
 	width: 220px;
 	height: 240px;
 }
@@ -3159,7 +3159,7 @@ header.main-header .header-sticky.active{
 .our-approach::after{
 	bottom: -30px;
 	left: 30px;
-	background-image: url('../images/section-bg-shape-2.png');
+	background-image: url('../images/shapes/service-drainage-bg-transparent.webp');
 	width: 220px;
 	height: 365px;
 }
@@ -3223,7 +3223,7 @@ header.main-header .header-sticky.active{
 .approach-item-header .icon-box img{
 	position: relative;
     width: 100%;
-    max-width: 24px;
+    max-width: 30px;
 	z-index: 1;
 }
 
@@ -3516,7 +3516,7 @@ header.main-header .header-sticky.active{
 
 .sidebar-cta-box{
 	position: relative;
-	background: url('../images/background/faq-icta-bg-mg.webp') no-repeat;
+	background: url('../images/background/services-sidebar.webp') no-repeat;
 	background-position: center center;
 	background-size: cover;
 	min-height: 350px;
@@ -3583,7 +3583,7 @@ header.main-header .header-sticky.active{
 .sidebar-cta-header .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	transition: all 0.4s ease-in-out;
 	z-index: 1;
 }
@@ -3763,7 +3763,7 @@ header.main-header .header-sticky.active{
 .service-contribute-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	transition: all 0.4s ease-in-out;
 	z-index: 1;
 }
@@ -4224,7 +4224,7 @@ header.main-header .header-sticky.active{
 .program-expect-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }	
 
@@ -4393,7 +4393,7 @@ header.main-header .header-sticky.active{
 .volunteer-contact-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -4780,7 +4780,7 @@ header.main-header .header-sticky.active{
 .contact-info-item .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	transition: all 0.4s ease-in-out;
 	z-index: 1;
 }
@@ -6893,7 +6893,7 @@ header.main-header .header-sticky.active{
 
 .about-us-counter-box-gold .icon-box img{
 	position: relative;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -6961,7 +6961,7 @@ header.main-header .header-sticky.active{
 
 .about-us-item-gold .icon-box img{
 	position: relative;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -7092,7 +7092,7 @@ header.main-header .header-sticky.active{
 
 .service-item-gold .icon-box img{
 	position: relative;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -7356,7 +7356,7 @@ header.main-header .header-sticky.active{
 }
 
 .core-features-gold{
-	background-image: url("../images/section-bg-shape-2.png");
+	background-image: url("../images/shapes/service-drainage-bg-transparent.webp");
 	background-position: bottom -30px right 30px;
 	background-repeat: no-repeat;
 	background-size: 190px auto;
@@ -7441,7 +7441,7 @@ header.main-header .header-sticky.active{
 
 .features-info-item-body-gold .icon-box img{
 	position: relative;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -9405,7 +9405,7 @@ header.main-header .header-sticky.active{
 .why-choose-item-silver .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -9546,7 +9546,7 @@ header.main-header .header-sticky.active{
 
 .volunteer-social-btn-silver img{
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	margin-left: 3px;
 }
 
@@ -9964,7 +9964,7 @@ header.main-header .header-sticky.active{
 .feature-item-silver .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	z-index: 1;
 }
 
@@ -10127,7 +10127,7 @@ header.main-header .header-sticky.active{
 .feature-experience-box-silver .icon-box img{
 	position: relative;
 	width: 100%;
-	max-width: 24px;
+	max-width: 30px;
 	transition: all 0.4s ease-in-out;
 	z-index: 1;
 }
@@ -11794,5 +11794,121 @@ header.main-header .header-sticky.active{
     .legal-contact-box {
         padding: 20px;
         border-radius: 12px;
+    }
+}
+
+/* SERVICE AREAS CSS */
+/* Service Areas */
+.service-areas-section {
+    padding: 100px 0;
+}
+
+.service-area-card {
+    position: relative;
+    display: block;
+    height: calc(100% - 30px);
+    margin-bottom: 30px;
+    padding: 30px;
+    border: 1px solid #E4E4E4;
+    border-radius: 20px;
+    background: #FFFFFF;
+    text-decoration: none;
+    overflow: hidden;
+    transition: all 0.4s ease-in-out;
+}
+
+.service-area-card:hover {
+    transform: translateY(-6px);
+    border-color: var(--accent-color);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
+}
+
+.service-area-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.service-area-card-header .icon-box {
+    width: 55px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #E4E4E4;
+    border-radius: 50%;
+    transition: all 0.4s ease-in-out;
+}
+
+.service-area-card-header .icon-box i {
+    font-size: 22px;
+    color: var(--accent-color);
+    transition: all 0.4s ease-in-out;
+}
+
+.service-area-card-header > span {
+    font-size: 14px;
+    font-weight: 600;
+    opacity: 0.5;
+	color: var(--accent-color);
+}
+
+.service-area-card-content {
+    padding-bottom: 25px;
+}
+.service-area-card-content p{
+color: var(--primary-color);
+}
+
+.service-area-card-content h3 {
+    margin-bottom: 12px;
+}
+
+.service-area-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 18px;
+    border-top: 1px solid #E4E4E4;
+}
+
+.service-area-card-footer span {
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.service-area-card-footer i {
+    transform: rotate(-45deg);
+    transition: all 0.4s ease-in-out;
+	color: var(--accent-color);
+}
+
+.service-area-card:hover .service-area-card-footer i {
+    transform: rotate(0deg);
+}
+
+.service-area-card:hover .icon-box {
+    background: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.service-area-card:hover .icon-box i {
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 991px) {
+    .service-areas-section {
+        padding: 80px 0;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .service-areas-section {
+        padding: 60px 0;
+    }
+
+    .service-area-card {
+        padding: 25px;
     }
 }
